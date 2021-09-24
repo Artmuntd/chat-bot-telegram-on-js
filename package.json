@@ -1,0 +1,28 @@
+{
+  "name": "chat-bot-telegram-on-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artmuntd/chat-bot-telegram-on-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artmuntd/chat-bot-telegram-on-js/issues"
+  },
+  "homepage": "https://github.com/Artmuntd/chat-bot-telegram-on-js#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "telegraf": "^4.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
