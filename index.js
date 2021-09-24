@@ -39,6 +39,7 @@ function ActionBot ( name, src , text) {
 ActionBot('btn_1', './img/1.jpg', text.text1)
 ActionBot('btn_2', './img/2.jpg', text.text2)
 ActionBot('btn_3', false, text.text3)
+//исправил кнопки.
 
 bot.launch()
 
