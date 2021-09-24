@@ -37,8 +37,8 @@ function ActionBot ( name, src , text) {
 }
 
 ActionBot('btn_1', './img/1.jpg', text.text1)
-ActionBot('btn_1', './img/2.jpg', text.text2)
-ActionBot('btn_1', false, text.text3)
+ActionBot('btn_2', './img/2.jpg', text.text2)
+ActionBot('btn_3', false, text.text3)
 
 bot.launch()
 
